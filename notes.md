@@ -1,7 +1,7 @@
 shodan == http.favicon.hash:635413405
 
 web ui for selenium 
-allow to run a selenium docker that you can then compromise with with clicks (unlock the window, right click > app > shells > bash)
+allow to run a selenium docker that you can then compromise with basic clicks (unlock the window, right click > app > shells > bash)
 
 ![Capture](https://user-images.githubusercontent.com/28728543/175260097-67eaada9-da5f-4ce3-a8b4-dc92eee3d8be.PNG)
 
