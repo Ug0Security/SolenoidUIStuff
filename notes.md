@@ -26,3 +26,4 @@ there's one host with 20 selenium running only to create user on M$ live and it 
 Then there's 6 hosts with a total of 100 selenium made only to create the FB account with the fresh M$ live account, add photos background, then try to create a business account, then try to spread ads..
 
 it's a bit.. you know.. touchy
+
